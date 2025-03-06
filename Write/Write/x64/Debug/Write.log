@@ -1,0 +1,5 @@
+﻿  Write.cpp
+C:\Users\martol86\source\repos\cpp-mutex\Write\Write\Write.cpp(13,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\martol86\source\repos\cpp-mutex\Write\Write\Write.cpp(20,18): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
+C:\Users\martol86\source\repos\cpp-mutex\Write\Write\Write.cpp(20,18): warning C4302: 'type cast': truncation from 'LPVOID' to 'int'
+  Write.vcxproj -> C:\Users\martol86\source\repos\cpp-mutex\Write\x64\Debug\Write.exe
