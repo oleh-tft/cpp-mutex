@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\martol86\source\repos\cpp-mutex\Main\Main\Main.cpp(10,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\martol86\source\repos\cpp-mutex\Main\Main\Main.cpp(32,24): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Main.vcxproj -> C:\Users\martol86\source\repos\cpp-mutex\Main\x64\Debug\Main.exe
